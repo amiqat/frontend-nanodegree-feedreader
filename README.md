@@ -9,7 +9,7 @@ Showcases testing abilites of Jasmine on a website that:
 
 ## Running Test
 
-To run the tests simply load the html file into the browser
+To run the tests simply load the index.html file into the browser
 
 ## Test Expectations
 
